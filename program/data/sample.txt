@@ -1,0 +1,85 @@
+{
+  "_id": "QZsqyeq3",
+  "analytics": {
+    "cat1": "real-estate",
+    "cat2": "residential-sell",
+    "cat3": "apartment-sell",
+    "city": "tehran"
+  },
+  "contact": {
+    "chat_enabled": true,
+    "transaction": {}
+  },
+  "sections": [
+    {
+      "section_name": "IMAGE",
+      "widgets": [
+        {
+          "widget_type": "IMAGE_CAROUSEL",
+          "data": {
+            "@type": "type.googleapis.com/widgets.ImageCarouselData",
+            "items": [
+              {
+                "image": {
+                  "url": "https://vid.divarcdn.com/QZsqyeq3.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                },
+                "video_url": "https://vid.divarcdn.com/QZsqyeq3.mp4"
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/8QFPbB3faye16FtmIBy7Uw/68450ea9-d326-41a7-8083-2874f327bf4c.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/nl_5sELImeCLp2K6jJ4RFA/1caced22-e7fa-40d8-bb6c-cc5c86171d4c.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/vhj737aV9qSXmq8m920TSA/4da684f1-2a46-4ec7-84f6-0dfeca8258de.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/fmF_WZKmbOtQnpSQhwlG4w/51c8b664-6fa0-4b8c-bf63-8cb3e5c4df55.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/cAdh4RdYCvfKHNbdVbBgYQ/db2cc4c1-072c-42d0-a247-db67d890e049.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/KF0Xzfd_pueoKEhimjZxSA/85dfc01c-e3fa-49ac-ae7d-539332f70c37.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              },
+              {
+                "image": {
+                  "url": "https://s100.divarcdn.com/static/photo/afra/real_estate/whvH2cMpdzEGYSJ8TGBPtw/5e069c96-efcb-4819-b99e-8e4524a1c17b.jpg",
+                  "alt": "۱۳۰متر/اعیان نشین/باویوابدی|فروش آپارتمان|تهران, آجودانیه|دیوار"
+                }
+              }
+            ],
+            "image_aspect_ratio": {
+              "dynamic_aspect_ratio": {
+                "height": 3,
+                "width": 4
+              }
+            },
+            "has_preview": true,
+            "has_thumbnails": true
+          }
+        }
+      ]
+    }
+	]
+	}
