@@ -1,6 +1,6 @@
 # lrean python
 Course Files for Complete Python 3 Bootcamp Course on Udemy and Pierian Data Inc 
-In addition, books and documents [Link](https://github.com/sajjadesmaili/persian-zero-to-hero-python/tree/main/book) have been used
+In addition, books and documents [ ( Link ) ](https://github.com/sajjadesmaili/persian-zero-to-hero-python/tree/main/book) have been used
 
 Python for data mining, machine learning and deep learning
 1. [Introduction to Python (sessiond 00 to 19)](https://github.com/sajjadesmaili/persian-zero-to-hero-python)
