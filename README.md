@@ -9,7 +9,7 @@ Python for data mining, machine learning and deep learning
 
 
 # home work 
-
+- [] [home work 1 ](https://github.com/sajjadesmaili/persian-zero-to-hero-python/blob/main/home%20work/homework1.pdf)
 
 
 # program 
